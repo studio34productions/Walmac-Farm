@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
   <div class="page-content" >
-    <header class="jumbo-bg-pic" style="background-image: url('/wp-content/uploads/2020/10/Walmac-header-bg.jpg')">
+    <header class="jumbo-bg-pic" style="background-image: url('/wp-content/uploads/2020/10/IMG_0761.jpg')">
 
         <div class="header-logo" style="">
 
