@@ -50,18 +50,17 @@
 
       </div>
 
-      <div class="social" style="bottom: 0;
-          position: absolute;
-          width: 100%;
-          text-align: center;
-          padding: 20px;">
+      <!-- <div class="social" style="bottom: 0;
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        padding: 20px;">
 
-          <a target="_blank" href="https://www.facebook.com/maresolutions/"><img class="social-media-icons facebook  pl-2" src="/wp-content/themes/maresolutions/files/img/facebook.svg" width="35px"></a>
-          <a target="_blank" href="https://vimeo.com/user97572343"><img class="social-media-icons facebook  pl-2" src="/wp-content/themes/maresolutions/files/img/vimeo-new.png" width="35px"></a>
+        <a target="_blank" href="https://www.facebook.com/maresolutions/"><img class="social-media-icons facebook  pl-2" src="/wp-content/themes/maresolutions/files/img/facebook.svg" width="35px"></a>
+        <a target="_blank" href="https://vimeo.com/user97572343"><img class="social-media-icons facebook  pl-2" src="/wp-content/themes/maresolutions/files/img/vimeo-new.png" width="35px"></a>
 
-
-        </div>
-
+      </div>
+ -->
 
 
 

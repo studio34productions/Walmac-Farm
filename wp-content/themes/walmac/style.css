@@ -88,12 +88,12 @@ a {color: #fafafa !important; text-decoration: none !important;}
 	margin-bottom: calc(15px + 1.5vw);
 }
 
-
 .text-area h3 {
 	font-size: calc(30px + 1vw);
 	color: #fafafa;
 	margin-bottom: calc(15px + 1vw);
 }
+
 .text-area p {
 	letter-spacing: 1px;
 	margin-bottom: 20px;
@@ -101,6 +101,7 @@ a {color: #fafafa !important; text-decoration: none !important;}
 	letter-spacing: .5px;
 		line-height: 1.75;
 }
+
 .text-area h5 {
 	letter-spacing: 1px;
 	font-size: calc(15px + 1vw);
@@ -111,10 +112,11 @@ a {color: #fafafa !important; text-decoration: none !important;}
 	background-color: white;
 	color: black;
 }
+
 .table  {
 	font-size: calc(12px + .15vw);
-
 }
+
 .dark-bg {
  background-color:  #333333;
 	padding: 30px 20px 30px;
@@ -132,9 +134,8 @@ a {color: #fafafa !important; text-decoration: none !important;}
 	height: 85vh;
 	width: 100%;
 	background-repeat: no-repeat;
-
-
 }
+
 .jumbo-bg-pic:first-of-type {
 	padding: calc(50px + 10vw) 0;
 }
@@ -142,6 +143,7 @@ a {color: #fafafa !important; text-decoration: none !important;}
 .tablepress td {
 white-space: nowrap;
 }
+
 .btn-red {
 	background-color: #2b5183;
 	color: white;
