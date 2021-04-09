@@ -20,15 +20,11 @@
       Known as Valley Farm in the 1700s, Walmac had gone through much reshaping by the time Robert Wallace McIlvain gave Walmac its current name after purchasing it in 1936. That owner had the distinction during his reign at Walmac of breeding five racehorses who earned over $100,000 – an incredible feat at the time.
       Assisted early on by Leslie Combs II before Combs moved on to focus on his own business at Spendthrift Farm, McIlvain was determined to succeed in Thoroughbred racing.
       </p>
-
-
       <p>
       With that goal in mind, his broodmare band was purchased from some of the best breeders in the world and included many prolific mares. Among those gracing the Walmac pastures were multiple stakes producer Masked Dancer, The Nut’s dam Afternoon, Bow and Arrow’s dam Beaming Over, and Bottle Green – the dam of Walmac Farm’s own Olney.
       </p>
-
       <p>It wasn’t until Walmac was put into the custodianship of John T.L. Jones Jr. in 1976 and renamed Walmac International, however, that it came to the worldwide prominence it has today.
       </p>
-
     </section>
 
 
