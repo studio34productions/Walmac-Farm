@@ -8,6 +8,7 @@ wp-content/plugins/wp-migrate-db/*
 **/.sass-cache
 **/.sass-cache/*
 **.css.map
+**.map
 settings.js
 sitemap.*
 wp-config.php
